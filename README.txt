@@ -1,5 +1,5 @@
 Yijie Guo Unreal Assignment 02
-Please choose and open the project in the 'YijieGuo_Unreal02 4.19" folder. [The "YijieGuo_Unreal02" is only a backup for myself]
+Please choose and open the project in the 'YijieGuo_Unreal02 4.19" folder.
 
 [GamePlay Design]
 [1] The goal of this game is to collect the collectable items in the scene. 
