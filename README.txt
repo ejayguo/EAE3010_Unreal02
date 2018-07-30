@@ -13,7 +13,8 @@ The five locations are top-left, top-right, bottom-left, bottom-right and the ce
 Enemies will only chase the player, if they see the player, otherwise, they will move randomly in the scene.
 Every time when the player get caught, he will have 5 seconds being invincible.
 
-[5] If the player gets +2 points, then the player wins the game. If the player get -5 points, then the player loses the game.
+[5] If the player gets +2 points, then the player wins the game. If the player get -5 points, then the player loses the game. 
+In both situations, the game will be stopped and the messages will be displayed on the screen.
 
 
 [Blueprints Descriptions]
